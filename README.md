@@ -1,2 +1,2 @@
 # XSS-Payloads
-<img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/XSS-Payloads/XSS-Payloads/master/xss.png"/>
+<img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/XSS-Payloads/XSS-Payloads/master/xss.jpg"/>
