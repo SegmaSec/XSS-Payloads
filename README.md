@@ -1,3 +1,3 @@
 # XSS-Payloads
-<img align="right" height="290" width="410" alt="" src="xss.jpg"/>
+<img align="center" height="290" width="410" alt="" src="xss.jpg"/>
     
